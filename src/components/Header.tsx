@@ -183,7 +183,7 @@ export const Header: React.FC<HeaderProps> = ({
             </button> */}
 
             {/* Direct ZIP Export Badge */}
-            <button
+              {/* <button
               id="header-download-zip-btn"
               type="button"
               onClick={onDownloadZip}
@@ -191,7 +191,7 @@ export const Header: React.FC<HeaderProps> = ({
               title="Download compiled files in a ZIP file"
             >
               <Download className="w-4 h-4" />
-            </button>
+            </button> */}
           </div>
 
           {/* Mobile menu trigger */}
