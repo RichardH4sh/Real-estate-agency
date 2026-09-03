@@ -1,0 +1,6 @@
+{
+  "name": "Haven & Hearth Real Estate Agency",
+  "description": "Premier real estate platform for flats, luxury houses, and development land with interactive neighborhood maps, photo galleries, viewing bookings, and admin portal.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
