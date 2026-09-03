@@ -169,7 +169,7 @@ export const Header: React.FC<HeaderProps> = ({
             </button>
 
             {/* Admin Area Button */}
-            /*<button
+            {/*<button
               id="header-admin-btn"
               type="button"
               onClick={onOpenAdmin}
@@ -180,7 +180,7 @@ export const Header: React.FC<HeaderProps> = ({
               {pendingBookingsCount > 0 && (
                 <span className="w-2 h-2 rounded-full bg-rose-500 animate-pulse" />
               )}
-            </button>*/
+            </button>*/}
 
             {/* Direct ZIP Export Badge */}
             <button
